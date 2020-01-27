@@ -3,7 +3,6 @@ OpenStack Glance
 ================
 
 .. image:: https://governance.openstack.org/tc/badges/glance.svg
-    :target: https://governance.openstack.org/tc/reference/tags/index.html
     :alt: The following tags have been asserted for the Glance project:
           "project:official",
           "tc:approved-release",
